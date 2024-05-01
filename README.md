@@ -1,0 +1,2 @@
+# desktopClock
+For learning qt
